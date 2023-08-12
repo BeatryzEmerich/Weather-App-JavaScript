@@ -22,5 +22,5 @@ Pré-requisitos
 Você precisará de um navegador da web para executar o aplicativo.
 
 # Contribuição
-Esse projeto foi desenvolvido com base no ASMR Programming ele contém alterações para fins de estudo e exercicio do conhecimento :) 
+Esse projeto foi desenvolvido com base no canal do Youtube ASMR Programming ele contém alterações para fins de estudo e exercicio do conhecimento :) 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades para este projeto. Se desejar contribuir, siga estas etapas:
